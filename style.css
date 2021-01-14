@@ -1,0 +1,13 @@
+#ip {
+    border-radius: 25px;
+    border: 1px solid#DCDCDC;
+    padding: 20px; 
+    width: 500px;
+    height: 1px;   
+    box-shadow: 0 0 3px#ccc;
+  
+}
+
+#ip:hover {
+    box-shadow: 0 0 8px #ccc;
+}
