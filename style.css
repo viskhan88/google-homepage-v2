@@ -114,6 +114,7 @@ li {
 
 .main {
     margin-left: 178px;
+    width: 650px;
 }
 
 .results {
@@ -126,4 +127,44 @@ li {
     padding-right: 8px;
     color: #70757a;
     font-size: 14px;
+    margin-bottom: 30px;
 }
+
+.text {
+    font-size: 14px;
+    
+}
+
+.link {
+    font-size: 20px;
+    margin-top: -5px; 
+}
+
+.content-text {
+    line-height: 1.58;
+    word-wrap: break-word;
+    color: #4d5156;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: -10px;
+    margin-bottom: 35px;
+  }
+
+  .bold {
+      font-weight: bold;
+  }
+
+  .also {
+      font-size: 20px;
+      border-bottom: 1px solid lightgray;
+      padding-bottom: 10px;
+      margin-top: 45px;
+  }
+
+  .also-item {
+    font-size: 18px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+    margin-top: -8px;
+  }
