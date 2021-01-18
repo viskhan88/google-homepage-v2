@@ -105,3 +105,25 @@ li {
     -moz-border-radius: 50%;
     border-radius: 50%;
 }
+
+.navbar {
+    border-bottom: 1px solid lightgray;
+    height: 125px;
+    width: 100%;
+}
+
+.main {
+    margin-left: 178px;
+}
+
+.results {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: Google Sans,arial,sans-serif;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 8px;
+    color: #70757a;
+    font-size: 14px;
+}
